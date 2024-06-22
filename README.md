@@ -37,13 +37,13 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white" title="R" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" title="Bash" alt="Bash" width="100" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" title="C++" alt="C++" width="100" height="100"/>&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" title="Python" alt="Python" width="100" height="100"/>&nbsp;
+  <img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white" title="R" alt="R" width="100" height="100"/>&nbsp;
   <img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" title="Markdown" alt="Markdown" width="100" height="100"/>&nbsp;
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white" title="Visual Studio" alt="Visual Studio" width="100" height="100"/>&nbsp;
+  <img src="https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green" title="PyCharm" alt="PyCharm" width="100" height="100"/>&nbsp;
 </div>
 
 ---
