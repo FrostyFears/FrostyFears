@@ -1,19 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-
-  <div
-  <a href="www.linkedin.com/in/keenananderson-fears">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://sites.psu.edu/keenanfears/">
-    <img src="https://img.shields.io/badge/Personal Website-white?style=for-the-badge&logo=safarie&logoColor=fff"/>
-  </a>
-</div>
-
-<img src="https://komarev.com/ghpvc/?username=FrostyFears&style=flat-square&color=blue" alt=""/>
-
-</div>
-
 <h1>
   Sup Bud!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -60,6 +44,24 @@
   <img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
+  <div
+  <a href="www.linkedin.com/in/keenananderson-fears">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://sites.psu.edu/keenanfears/">
+    <img src="https://img.shields.io/badge/Personal Website-white?style=for-the-badge&logo=safarie&logoColor=fff"/>
+  </a>
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=FrostyFears&style=flat-square&color=blue" alt=""/>
+
 </div>
 
 <!--
